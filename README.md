@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @georgegabriel93
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @geaorgegabriel93
+- 👀 I’m interested in ... em  estagio
+- 🌱 I’m currently learning ...  cursando analise e desenvolvimento de sistemas
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-georgegabriel93/georgegabriel93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me ... https://www.linkedin.com/in/george-avelar-a5a7b1180/
